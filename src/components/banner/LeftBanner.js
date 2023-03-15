@@ -3,7 +3,8 @@ import { useTypewriter, Cursor } from "react-simple-typewriter";
 import { FaLinkedinIn, FaReact, FaInstagram } from "react-icons/fa";
 import { BsWhatsapp } from "react-icons/bs";
 import { SiNextdotjs, SiJavascript, SiCss3 } from "react-icons/si";
-/* import {whatsapp} from '../../images/icons/whatsapp.png'; */
+/* import whatsapp from '../../assets/images/icons/whatsapp.png';
+ */
 
 const LeftBanner = () => {
   const [text] = useTypewriter({
