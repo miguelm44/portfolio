@@ -7,7 +7,7 @@ import testimonialOne from "./images/testmonial/testimonialOne.png";
 import testimonialTwo from "./images/testmonial/testimonialTwo.png";
 import quote from "./images/testmonial/quote.png";
 import contactImg from "./images/contact/contactImg.png";
-
+import avatar from "./images/avatar.png";
 export {
   logo,
   bannerImg,
@@ -18,4 +18,5 @@ export {
   testimonialTwo,
   quote,
   contactImg,
+  avatar,
 };
